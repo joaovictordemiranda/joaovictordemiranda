@@ -1,6 +1,6 @@
 Olá, Eu sou  João Victor
 
-<div align="block">
+<div align="inline-block">
   <a href="https://github.com/joaovictordemiranda">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaovictordemiranda&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img height="140em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordemiranda&layout=compact&langs_count=7&theme=blue-green" />
